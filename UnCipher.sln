@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnCipher", "UnCipher\UnCipher.csproj", "{F5CC4B6D-7678-4199-9215-74F3F1451231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CC4B6D-7678-4199-9215-74F3F1451231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CC4B6D-7678-4199-9215-74F3F1451231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CC4B6D-7678-4199-9215-74F3F1451231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CC4B6D-7678-4199-9215-74F3F1451231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0639F3A0-3DEE-4221-8EEA-2EFC69E03D0A}
+	EndGlobalSection
+EndGlobal

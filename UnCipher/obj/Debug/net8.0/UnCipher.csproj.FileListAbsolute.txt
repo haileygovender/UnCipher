@@ -1,0 +1,14 @@
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\bin\Debug\net8.0\UnCipher.exe
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\bin\Debug\net8.0\UnCipher.deps.json
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\bin\Debug\net8.0\UnCipher.runtimeconfig.json
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\bin\Debug\net8.0\UnCipher.dll
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\bin\Debug\net8.0\UnCipher.pdb
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.AssemblyInfoInputs.cache
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.AssemblyInfo.cs
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.csproj.CoreCompileInputs.cache
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.dll
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\refint\UnCipher.dll
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.pdb
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\UnCipher.genruntimeconfig.cache
+C:\Users\Haileyg\source\repos\UnCipher\UnCipher\obj\Debug\net8.0\ref\UnCipher.dll
