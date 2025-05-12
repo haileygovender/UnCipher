@@ -1,7 +1,3 @@
-Here’s a clean and elegant **README.md** for your `UnCipher` project that explains the purpose, usage, and structure of your Atbash cipher decoder:
-
----
-
 ## 🔐 UnCipher
 
 **UnCipher** is a simple C# console application that decodes sentences using the [Atbash Cipher](https://en.wikipedia.org/wiki/Atbash), a classical encryption method where each letter is substituted with its mirror equivalent in the alphabet. For example, `a ↔ z`, `b ↔ y`, `c ↔ x`, and so on.
